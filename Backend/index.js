@@ -17,6 +17,6 @@ app.get("/",(req,res)=>{
 
 });
 app.listen(port , ()=>{
-    console.log("server is running on : " + mode+ "mode" +" on port:  "+ port);
+    console.log("server is running on : " + mode+ "mode" +" on port2323:  "+ port);
     
 })
