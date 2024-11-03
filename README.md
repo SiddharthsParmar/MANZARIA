@@ -3,7 +3,8 @@ Welcome to the E-commerce Platform! This is a fully functional e-commerce applic
 
 🎨 Project Overview
 This project is a complete e-commerce solution, including product listings, search functionality, shopping cart, user authentication, and secure checkout. It’s designed to be visually appealing and highly responsive, offering an optimized experience for both desktop and mobile users.
-![image](https://github.com/user-attachments/assets/5324fe19-ed9e-42e0-9f8d-08baaf889c82)
+![image](https://github.com/user-attachments/assets/5cf81066-ad8e-421d-af51-ec40b8f5a5de)
+
 ![image](https://github.com/user-attachments/assets/75b74e16-85f2-497f-9c76-07d12945df80)
 
 
