@@ -1,0 +1,35 @@
+#navbarSupportedContent{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.BrandContainer{
+    /* background: #000 */
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.BrandContainer h2{
+    font-family:"inria serif" ;
+    font-weight: 700;
+}
+.right-Nav{
+    display: flex;
+   
+    justify-content: space-around;
+    gap: 5px;
+}
+a{
+    text-decoration: none;
+    list-style: none;
+    margin-left: 2rem;
+  
+}
+li{
+    list-style: none;
+}
+.dropdown-item      :active{
+    background: #000;
+}   

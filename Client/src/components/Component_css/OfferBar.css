@@ -1,0 +1,18 @@
+h1{
+    background: #000;
+}
+.black-strip{
+    background: #000;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+    justify-content: center;
+
+}
+.offerText{
+    color:white;
+}
+.OfferDate{
+    font-weight: 700;
+}
